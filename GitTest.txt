@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 12CE-5EAC
+
+ Directory of C:\Users\u6105143\Tools\GitTest
+
+05-03-2020  08:22    <DIR>          .
+05-03-2020  08:22    <DIR>          ..
+05-03-2020  08:22                 0 GitTest.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  136,687,575,040 bytes free
